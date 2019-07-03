@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HaHTestApp</string>
+    <string name="login_placeholder">Электронная почта</string>
+    <string name="password_placeholder">Пароль</string>
+    <string name="btn_login_label">Войти</string>
+    <string name="login_title">Авторизация</string>
+    <string name="create">Создать</string>
+    <string name="email_error">Введите корректный адрес электронный почты</string>
+    <string name="password_length_error">Пароль не должен быть меньше 6 символов</string>
+    <string name="password_content_error">Пароль должен содержать хотя бы одну строчную, заглавную букву, цифру</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="weather_message">Погода за окном: %1$d °C</string>
+    <string name="btn_create_label">Создать</string>
+    <string name="btn_restore_password_message">Восстановление пароля</string>
+    <string name="btn_create_account_message">Создание аккаунта</string>
+</resources>
